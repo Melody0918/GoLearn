@@ -1,25 +1,41 @@
 ## 该项目包含Go语言学习过程中的代码
-***
+
 ### 目前包含内容有
-* Go语言特性
+* [Go语言特性](https://github.com/Melody0918/GoLearn/tree/master/main)
 * Go关键字&运算符
-* Go变量
+* [Go变量](https://github.com/Melody0918/GoLearn/blob/master/main/3.transition.go)
 * Go流程控制
+  * [switch分支结构](https://github.com/Melody0918/GoLearn/tree/master/switch_prac)
+  * [循环控制(for)](https://github.com/Melody0918/GoLearn/tree/master/for_prac)
+  * [打印九九乘法表](https://github.com/Melody0918/GoLearn/tree/master/ninenineTable)
+  * [打印金字塔](https://github.com/Melody0918/GoLearn/tree/master/pyramid)
+  * [跳转控制break&随机数random](https://github.com/Melody0918/GoLearn/tree/master/random_num)
+  * [跳转控制语句continue](https://github.com/Melody0918/GoLearn/tree/master/continue_prac)
 * Go指针&值类型&引用类型
 * Go函数
-* Go数组(值类型)和切片(引用类型)
+  * [递归](https://github.com/Melody0918/GoLearn/tree/master/feibo) 
+  * [Go匿名函数](https://github.com/Melody0918/GoLearn/tree/master/anonymous_func)
+  * [Go闭包](https://github.com/Melody0918/GoLearn/tree/master/closure)
+  * [defer延时机制](https://github.com/Melody0918/GoLearn/tree/master/defer)
+  * [字符串函数](https://github.com/Melody0918/GoLearn/tree/master/string_func)
+  * [时间和日期相关函数](https://github.com/Melody0918/GoLearn/tree/master/time_func)
+  * Golang内置函数(package builtin)
+* [Go数组(值类型)](https://github.com/Melody0918/GoLearn/tree/master/array)和[切片(引用类型)](https://github.com/Melody0918/GoLearn/tree/master/slice)
 * Go中错误处理机制
-* Go中map(引用类型)
+* [Go中map(引用类型)](https://github.com/Melody0918/GoLearn/tree/master/map)
 * Go中map切片使用
 * 排序和查找(算法)
 * Go语言面向"对象"编程OOP
-    * 结构体变量以及结构体切片
-    * 方法
-    * 工厂模式
-    * 封装
-    * 继承
-    * 多态(用接口体现多态)
-    * 类型断言
-* Go接口
+    * [结构体变量以及结构体切片](https://github.com/Melody0918/GoLearn/tree/master/struct)
+    * [方法](https://github.com/Melody0918/GoLearn/tree/master/method%E6%96%B9%E6%B3%95)
+    * [工厂模式](https://github.com/Melody0918/GoLearn/tree/master/factoryModel)
+    * [封装](https://github.com/Melody0918/GoLearn/tree/master/encapsulation)
+    * [继承](https://github.com/Melody0918/GoLearn/tree/master/extends)
+    * [多态(用接口体现多态)](https://github.com/Melody0918/GoLearn/tree/master/poly)
+    * [类型断言](https://github.com/Melody0918/GoLearn/tree/master/poly/typeassert)
+* [Go接口](https://github.com/Melody0918/GoLearn/tree/master/interface)
+* [接口VS继承](https://github.com/Melody0918/GoLearn/tree/master/clientRelationProject/customerManage)
 * 阶段性综合项目
-* 
+  * 1.[家庭收支记账软件项目](https://github.com/Melody0918/GoLearn/tree/master/familyAccountProject)
+  * 2.[客户信息关系系统](https://github.com/Melody0918/GoLearn/tree/master/clientRelationProject/customerManage)
+
