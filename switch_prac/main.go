@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	//practice1
+	//channelpractice1
 	//var x byte
 	//var y byte = 'a'
 	//fmt.Println("请输入转换为大写的char型(a,b,c,d,e中任选):")

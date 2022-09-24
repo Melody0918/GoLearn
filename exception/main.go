@@ -43,7 +43,7 @@ func main() {
 
 	test()
 	//测试
-	fmt.Println("main()下面的代码...")
+	fmt.Println("testing_prac()下面的代码...")
 
 	//测试自定义错误的使用
 	test02()

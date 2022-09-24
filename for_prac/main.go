@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 
-	//practice1
+	//channelpractice1
 	//var i int = 1
 	//var count int
 	//var sum int
